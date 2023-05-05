@@ -6,59 +6,58 @@
 
 1. Vue Fundamentals
 
--   Declarative Render
--   Directives
--   Cycles
--   Conditionals
--   Events
--   Inputs
+    - Declarative Render
+    - Directives
+    - Cycles
+    - Conditionals
+    - Events
+    - Inputs
 
 2. Components
 
--   Component
--   Props
--   Templates
--   Binding
--   State
--   Data persistance
+    - Component
+    - Props
+    - Templates
+    - Binding
+    - State
+    - Data persistance
 
 3. Vue Instance
 
--   Vue Lifecycle
--   `beforeCreated`
--   `created`
--   `beforeMount`
--   `mounted`
--   `updated`
+    - Vue Lifecycle
+    - `beforeCreated`
+    - `created`
+    - `beforeMount`
+    - `mounted`
+    - `updated`
 
 4. Templates
 
--   Text
--   HTML
--   Attributes
--   JS Expressions
--   Arguments
--   Modifiers
--   Shortcuts
-
-    -   `v-bind`
-    -   `v-on`
+    - Text
+    - HTML
+    - Attributes
+    - JS Expressions
+    - Arguments
+    - Modifiers
+    - Shortcuts
+    - `v-bind`
+    - `v-on`
 
 5. Advanced Vue
 
--   Mixins
--   Custom Directives
--   Vue-Router
--   Vue CLI
--   Vue SSR
--   HTTP Request
--   Vuex
--   Components patterns
+    - Mixins
+    - Custom Directives
+    - Vue-Router
+    - Vue CLI
+    - Vue SSR
+    - HTTP Request
+    - Vuex
+    - Components patterns
 
 6. Frameworks
 
--   Nuxt.js
--   Vue Material
+    - Nuxt.js
+    - Vue Material
 
 ## Index
 
