@@ -4,32 +4,33 @@
 
 ## Roadmap
 
-1. Vue Fundamentals
+1. Vue Fundamentals.
 
-    - Declarative Render
-    - Directives
-    - Cycles
-    - Conditionals
-    - Events
-    - Inputs
+    - Declarative Render.
+    - Directives.
+    - Cycles.
+    - Conditionals.
+    - Events.
+    - Inputs.
 
-2. Components
+2. Vue Instance.
 
-    - Component
-    - Props
-    - Templates
-    - Binding
-    - State
-    - Data persistance
+    - Mounting VUE instance.
+    - Vue Lifecycle.
+    - `beforeCreated`.
+    - `created`.
+    - `beforeMount`.
+    - `mounted`.
+    - `updated`.
 
-3. Vue Instance
+3. Components.
 
-    - Vue Lifecycle
-    - `beforeCreated`
-    - `created`
-    - `beforeMount`
-    - `mounted`
-    - `updated`
+    - Component.
+    - Props.
+    - Templates.
+    - Binding.
+    - State.
+    - Data persistance.
 
 4. Templates
 
@@ -61,7 +62,8 @@
 
 ## Index
 
-| Content     | Description                                                                                     |
-| ----------- | ----------------------------------------------------------------------------------------------- |
-| Foundations | Basic topics of vue, like - Declarative Render Directives Cycles Conditionals Events and Inputs |
-| Project 1   | CSS3 Prespective Playgrond project                                                              |
+| Content      | Description                                                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Foundations  | Basic topics of vue, like Declarative Render Directives Cycles Conditionals Events and Inputs.                     |
+| Project 1    | CSS3 Prespective Playgrond project.                                                                                |
+| Vue Instance | Topics like Mounting VUE instance, Vue Lifecycle, `beforeCreated`, `created`, `beforeMount`, `mounted`, `updated`. |
